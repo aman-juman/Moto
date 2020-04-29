@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    width: 1060px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #f8f8f8;
+}

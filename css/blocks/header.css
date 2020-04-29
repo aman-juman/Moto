@@ -1,0 +1,83 @@
+.header {
+    height: 800px;
+    width: 100%;
+    background-color: #f1dfd3;
+    background-image: url('../../img/bg/header-bg-1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.header-nav-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 40px;
+}
+.header__nav {
+    font-family: 'Teko', sans-serif;
+    font-size: 23px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.45px;
+    display: flex;
+}
+.header__nav-link {
+    color: #404040;
+    margin-right: 50px;
+    text-decoration: none;
+    position: relative;
+}
+.header__nav-link:last-child {
+    margin-right: 0;
+}
+.header__nav-link:hover, .header__nav-link--active {
+    color: #004cff;
+}
+.header__nav-link:first-child {
+    color: #004cff;
+}
+
+
+.header__nav-link:after {
+    content: "";
+    display: block;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    right: -30px;
+    top: 10px;
+    transform: rotate(45deg);
+    background-color: #004cff;
+}
+.header__nav-link:last-child {
+    margin-right: 0;
+}
+.header__nav-link:last-child::after {
+    display: none;
+}
+
+.header__button {
+    height: 66px;
+    padding-left: 38px;
+    padding-right: 38px;
+    padding-top: 23px;
+
+    background-color: #004cff;
+    text-decoration: none;
+
+    color: #ffffff;
+    font-family: 'Teko', sans-serif;
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 1;
+    text-transform: uppercase;
+    letter-spacing: 0.45px;
+    transition: background-color 0.2s ease-in;
+}
+
+.header__button:hover {
+    background-color: #1573ff;
+}
+
+
+
