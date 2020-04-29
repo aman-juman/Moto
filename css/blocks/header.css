@@ -37,7 +37,6 @@
     color: #004cff;
 }
 
-
 .header__nav-link:after {
     content: "";
     display: block;
@@ -77,6 +76,48 @@
 
 .header__button:hover {
     background-color: #1573ff;
+}
+
+
+.header__promo {
+    max-width: 400px;
+    height: 250px;
+    margin-top: 150px;
+    margin-left: 0;
+    margin-bottom: 0;
+
+}
+.header__title {
+    color: #ffffff;
+    font-family: 'Teko', sans-serif;
+    font-size: 68px;
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: 2.73px;
+    margin-bottom: 50px;
+}
+
+.header__promo-button {
+    display: inline-block;
+    height: 61px;
+    border: 6px solid #ffffff;
+    padding-left: 48px;
+    padding-right: 48px;
+    padding-top: 14px;
+    transition: background-color 0.2s ease-in, color 0.2s ease-in;
+
+
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.header__promo-button:hover {
+    color: #ffd03b;
+    border-color: #ffd03b;
 }
 
 
