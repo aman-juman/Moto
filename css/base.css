@@ -4,11 +4,22 @@
 body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
+    background-color: #232323;
+    color: white;
+    padding-bottom: 500px;
 }
 
 .container {
-    width: 1060px;
+    max-width: 1060px;
     margin-left: auto;
     margin-right: auto;
     color: #f8f8f8;
+}
+
+.container-wide {
+    max-width: 1350px;
+    height: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #004cff;
 }

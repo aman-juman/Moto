@@ -47,6 +47,7 @@
     top: 10px;
     transform: rotate(45deg);
     background-color: #004cff;
+    pointer-events: none;
 }
 .header__nav-link:last-child {
     margin-right: 0;
