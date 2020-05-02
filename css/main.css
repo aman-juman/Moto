@@ -6,5 +6,7 @@ font-family: 'Teko', sans-serif;
 @import "base.css";
 @import "blocks/top-panel.css";
 @import "blocks/header.css";
-@import "blocks/top-info.css";
+@import "blocks/info.css";
 @import "blocks/products.css";
+@import "blocks/bottom-info.css";
+@import "blocks/subscribe.css";

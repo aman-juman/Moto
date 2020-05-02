@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="061d452e-e0ac-4593-b258-7150fd014a79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/blocks/products.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/blocks/bottom-info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/blocks/info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/blocks/subscribe.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blocks/products.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/blocks/products.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blocks/top-info.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/blocks/top-info.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg/header-bg-2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,28 +23,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6495238">
+    <splitter split-orientation="horizontal" split-proportion="0.68503934">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="516">
-                  <caret line="203" column="51" lean-forward="true" selection-start-line="203" selection-start-column="51" selection-end-line="203" selection-end-column="51" />
+                <state relative-caret-position="472">
+                  <caret line="240" column="71" selection-start-line="240" selection-start-column="54" selection-end-line="240" selection-end-column="71" />
                   <folding>
                     <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/base.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="504">
+                  <caret line="24" selection-start-line="24" selection-end-line="26" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/blocks/products.css">
+            <entry file="file://$PROJECT_DIR$/css/blocks/subscribe.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="298">
-                  <caret line="57" column="24" lean-forward="true" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+                  <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
                 </state>
               </provider>
             </entry>
@@ -50,8 +71,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="21">
-                  <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="38" />
+                <state relative-caret-position="42">
+                  <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="33" />
                 </state>
               </provider>
             </entry>
@@ -70,6 +91,10 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>fuel</find>
+      <find>44</find>
+      <find>back</find>
+      <find>r-w</find>
+      <find>info__img</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -82,12 +107,15 @@
         <option value="$PROJECT_DIR$/css/blocks/top-panel.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/css/blocks/top-banners.css" />
-        <option value="$PROJECT_DIR$/css/base.css" />
-        <option value="$PROJECT_DIR$/css/blocks/top-info.css" />
         <option value="$PROJECT_DIR$/css/blocks/header.css" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/css/blocks/products.css" />
+        <option value="$PROJECT_DIR$/css/blocks/top-info.css" />
+        <option value="$PROJECT_DIR$/css/blocks/info.css" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/css/blocks/bottom-info.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/blocks/subscribe.css" />
+        <option value="$PROJECT_DIR$/css/base.css" />
       </list>
     </option>
   </component>
@@ -103,7 +131,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,12 +158,19 @@
               <item name="moto" type="b2602c69:ProjectViewProjectNode" />
               <item name="moto" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="info" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="moto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="moto" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="products" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,18 +206,19 @@
       <updated>1588165551940</updated>
       <workItem from="1588165553788" duration="10361000" />
       <workItem from="1588229809478" duration="11215000" />
-      <workItem from="1588338848820" duration="11515000" />
+      <workItem from="1588338848820" duration="12251000" />
+      <workItem from="1588414227755" duration="6904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33091000" />
+    <option name="totallyTimeSpent" value="40731000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1280" height="996" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15513127" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19172633" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -221,13 +256,6 @@
     <entry file="file://$PROJECT_DIR$/img/icons/user.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/blocks/top-panel.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/logo.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -238,50 +266,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/base.css">
+    <entry file="file://$PROJECT_DIR$/css/blocks/products.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="63">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/blocks/top-info.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/blocks/top-panel.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="231">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/blocks/header.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="280">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/blocks/bottom-info.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="38" />
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/blocks/products.css">
+    <entry file="file://$PROJECT_DIR$/css/blocks/info.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="57" column="24" lean-forward="true" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+        <state relative-caret-position="319">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="203" column="51" lean-forward="true" selection-start-line="203" selection-start-column="51" selection-end-line="203" selection-end-column="51" />
+        <state relative-caret-position="472">
+          <caret line="240" column="71" selection-start-line="240" selection-start-column="54" selection-end-line="240" selection-end-column="71" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/blocks/subscribe.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" selection-start-line="24" selection-end-line="26" selection-end-column="1" />
         </state>
       </provider>
     </entry>
