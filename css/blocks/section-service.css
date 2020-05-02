@@ -1,0 +1,45 @@
+.section-service {
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+.service-block {
+    width: 32%;
+    padding: 35px 30px;
+    display: flex;
+    justify-content: space-between;
+
+
+    border: 3px solid #707070;
+    background-color: #ffffff;
+}
+
+
+.section-service__row {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.service-block__description {
+    width: 144px;
+}
+
+.service-block__title {
+    margin: 0;
+    min-height: 35px;
+    color: #262626;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 1.44;
+    margin-bottom: 10px;
+}
+
+.service-block__text {
+
+    color: #707070;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 1.5;
+}
