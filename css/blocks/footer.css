@@ -1,0 +1,24 @@
+.footer {
+    padding-top: 120px;
+}
+
+.footer__row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__column {
+    display: block;
+}
+
+.footer__group {
+
+}
+
+.footer__title {
+
+}
+
+.footer__text {
+
+}

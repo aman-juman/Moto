@@ -11,3 +11,5 @@ font-family: 'Teko', sans-serif;
 @import "blocks/bottom-info.css";
 @import "blocks/subscribe.css";
 @import "blocks/section-service.css";
+@import "blocks/gallery.css";
+@import "blocks/footer.css";

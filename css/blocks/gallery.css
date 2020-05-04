@@ -1,0 +1,13 @@
+.gallery {
+    display: flex;
+    margin: 0;
+}
+
+.gallery__item {
+    width: 33.333%;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+
+
+}
