@@ -1,0 +1,19 @@
+.social {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.social__item {
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #004cff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+
+}
